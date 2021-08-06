@@ -9,10 +9,9 @@ The group meets virtually on Zoom, and it has a forum here:
 ## 10th August 2021 Meeting 
 Please download the ics file from here:
 
-https://arinbasu.github.io/2021-imia-thwg/imia_aug_10_meeting.ics
+[https://arinbasu.github.io/2021-imia-thwg/imia_aug_10_meeting.ics](https://arinbasu.github.io/2021-imia-thwg/imia_aug_10_meeting.ics)
 
 Invitation and Zoom link:
-
  
 [https://canterbury.zoom.us/j/91426923704 ](https://canterbury.zoom.us/j/91426923704)
 
